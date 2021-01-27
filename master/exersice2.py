@@ -1,4 +1,4 @@
-texto = "Hellowold"
+texto = "Hellowold" = ['H','e','l','l','o','w','o','r','l','d']
 contador = 1
 texto_configurado = []
 
